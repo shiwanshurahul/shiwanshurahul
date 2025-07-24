@@ -1,10 +1,4 @@
-
-<!--
-**shiwanshurahul/shiwanshurahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 # 💫 About Me:
+# 💫 About Me:
 Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of full-stack development experience, specializing in Node.js, React, MongoDB, and Docker, along with strong foundations in C++, Python, and GCP.<br>At FICO, I contributed to building 15+ secure backend routes with role-based access and developed a frontend scoring model generator using React, Tailwind, and Redux Toolkit. I also improved template structures with modular, object-oriented design.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & OAuth auth flows, and handled real-time dynamic routing. My 400+ DSA problems in C++ reflect my strong problem-solving skills.<br>I’m eager to bring my hands-on experience, adaptability, and dedication to your engineering team. <br>Let’s connect!<br>
 
 
