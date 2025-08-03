@@ -1,11 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shiwanshu</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a proficient Full Stack Developer with programming skills.</h3>
 
 
 # 💫 About Me:
-Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of full-stack development experience, specializing in Node.js, React, MongoDB, and Docker, along with strong foundations in C++, Python, and AWS.<br>At FICO, I contributed to building 15+ secure backend routes with role-based access and developed a frontend scoring model generator using React, Tailwind, and Redux Toolkit. I also improved template structures with modular, object-oriented design.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & OAuth auth flows, and handled real-time dynamic routing. My 400+ DSA problems in C++ reflect my strong problem-solving skills.<br>I’m eager to bring my hands-on experience, adaptability, and dedication to your engineering team. <br>Let’s connect!<br>
+Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of full-stack development experience, specializing in Node.js, React, MongoDB, and Docker, along with strong foundations in C++, Python, and AWS.<br>At FICO, I contributed to building 15+ secure backend routes with role-based access and developed a frontend scoring model generator using React, Tailwind, and Redux Toolkit. I also improved template structures with modular, object-oriented design.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & OAuth auth flows, and handled real-time dynamic routing. 
+My 400+ DSA problems in C++ reflect my strong problem-solving skills.<br>I’m eager to bring my hands-on experience, adaptability, and dedication to your engineering team. <br>Let’s connect!<br>
 
 
 ## 🌐 Connect with me:
