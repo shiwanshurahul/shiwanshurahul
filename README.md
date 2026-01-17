@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shiwanshu</h1>
-<h1>https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmplNjRqYnVyd3liYXM2YzM0NnltZGxqcGR3a296bTZxcDJ3cTZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzF0Bp09v4abTr7928/giphy.gif</h1>
+<h1 align="center">Hi <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmplNjRqYnVyd3liYXM2YzM0NnltZGxqcGR3a296bTZxcDJ3cTZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzF0Bp09v4abTr7928/giphy.gif" width="30px">, I'm Shiwanshu</h1>
+
 <h3 align="center">I'm a proficient Software Developer with programming skills.</h3>
 
 
