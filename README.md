@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of Software development experience, specializing in Python, SQL, Pandas, Pyspark and Docker, along with strong foundations in C++and AWS.<br>I have contributed in building and maintaining Python features, scripts with modular, object-oriented design along with their deployoment on Jenkins. I have contributed in all stages of ML development lifecycle of a classification based fraud detection model. Worked with creating docker images.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & Google OAuth based authentication flows, and handled real-time dynamic routing. 
+Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of Software development experience, specializing in Python, SQL, Pandas, Pyspark and Docker, along with strong foundations in C++and AWS.<br>I have owned building and maintaining Python features, scripts with object-oriented design along with their unit testing with pytest. Contributed in all stages of ML development lifecycle of a classification based fraud detection model including preprocessing, EDA, Feature Engineering, Model training and deployment.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & Google OAuth based authentication flows, and handled real-time dynamic routing. 
 My 500+ DSA problems reflect my strong problem-solving skills.<br>I’m eager to bring my hands-on experience, adaptability, and dedication to your engineering team. <br>Let’s connect!<br>
 
 
