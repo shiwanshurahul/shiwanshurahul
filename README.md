@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmplNjRqYnVyd3liYXM2YzM0NnltZGxqcGR3a296bTZxcDJ3cTZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzF0Bp09v4abTr7928/giphy.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1rejB0Z2FmOGN6YXlkeTQ1ajV3OHk2Z3RlYnhvN2RhbTYxcDNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shiwanshu</h1>
 
@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of Software development experience, specializing in Python, SQL, Pandas, Pyspark and Docker, along with strong foundations in C++and AWS.<br>I have owned building and maintaining Python features, scripts with object-oriented design along with their unit testing with pytest. Contributed in all stages of ML development lifecycle of a classification based fraud detection model including preprocessing, EDA, Feature Engineering, Model training and deployment.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & Google OAuth based authentication flows, and handled real-time dynamic routing. 
+Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of Machine Learning experience, specializing in Python, ML, Pandas, Pyspark and SQL, along with strong foundations in C++and AWS.<br>I have owned building and maintaining Python features and scripts with object-oriented design along with their unit testing with pytest, performing EDA and training models. I have Contributed in all stages of ML development lifecycle of classification based fraud detection model including preprocessing, EDA, Feature Engineering, Model training and deployment.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & Google OAuth based authentication flows, and handled real-time dynamic routing. 
 My 500+ DSA problems reflect my strong problem-solving skills.<br>I’m eager to bring my hands-on experience, adaptability, and dedication to your engineering team. <br>Let’s connect!<br>
 
 
