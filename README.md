@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shiwanshu</h1>
 
-<h3 align="center">I'm a Software developer with eagerness to learn and implement technologies.</h3>
+<h3 align="center">I'm a Software developer with eagerness to learn, adapt and implement technologies.</h3>
 
 
 # 💫 About Me:
