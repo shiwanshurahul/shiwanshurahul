@@ -6,7 +6,8 @@
 
 
 # 💫 About Me:
-Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of Machine Learning experience, specializing in Python, ML, Pandas, Pyspark and SQL, along with strong foundations in C++and AWS.<br>I have owned building and maintaining Python features and scripts with object-oriented design along with their unit testing with pytest, performing EDA and training models. I have Contributed in all stages of ML development lifecycle of classification based fraud detection model including preprocessing, EDA, Feature Engineering, Model training and deployment.<br>Outside of work, I built a complete MERN E-commerce app with 20+ RESTful APIs, JWT & Google OAuth based authentication flows, and handled real-time dynamic routing. 
+Hi,👋 I'm Shiwanshu—a Computer Science graduate with one year of Machine Learning experience, specializing in Python, ML, Pandas, Pyspark and SQL, along with strong foundations in C++and AWS.<br>I have owned building and maintaining Python features and scripts with object-oriented design along with their unit testing with pytest, performing EDA and training models. I have Contributed in all stages of ML development lifecycle of classification based fraud detection model including preprocessing, EDA, Feature Engineering, Model training and deployment.
+<br>On personal space, I built a ML based Gurgaon Real estate project where I am conducting Data Analysis to provide analytics and insights into properties of each sector, based on some parametres and predicting real time cost.  
 My 500+ DSA problems reflect my strong problem-solving skills.<br>I’m eager to bring my hands-on experience, adaptability, and dedication to your engineering team. <br>Let’s connect!<br>
 
 
